@@ -1,3 +1,3 @@
 # kandinsky-text
 Тексты проекта Кандинский. Лучшие практики для НКО
-[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)]()
+[![GitHub release](https://img.shields.io/badge/release-0.3b-lightgrey.svg)]()
