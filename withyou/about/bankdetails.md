@@ -1,8 +1,8 @@
-title="БАНКОВСКИЕ РЕКВИЗИТЫ"
-tags=""
-cat=""
-thumb=""
-lead=""
+title="БАНКОВСКИЕ РЕКВИЗИТЫ"      
+tags=""    
+cat=""     
+thumb=""   
+lead=""    
 
 +++
 
