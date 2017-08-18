@@ -1,4 +1,4 @@
-img="file 14.jpg"
+thumb="file 14.jpg"
 
 +++
 
