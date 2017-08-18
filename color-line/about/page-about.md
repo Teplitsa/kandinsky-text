@@ -6,7 +6,9 @@ slug="about"
 
 [content name=introduction]
 
-[shortcode name=knd_background_text content=whoweare-whoweare]
+[shortcode name=knd_background_text content=whoweare-heroimage]
+
+[content content=whoweare]
 
 [shortcode name=knd_columns content=whoweare-whatwedo content=whoweare-howtojoin]
 
