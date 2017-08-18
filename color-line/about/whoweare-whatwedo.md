@@ -1,4 +1,6 @@
-img=“file 11.jpg
+thumb="file 11.jpg"
+
++++
 
 ## Что мы делаем?
 
