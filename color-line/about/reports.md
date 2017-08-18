@@ -1,4 +1,4 @@
-img="about 1.jpg"
+thumb="about 1.jpg"
 
 +++
 
