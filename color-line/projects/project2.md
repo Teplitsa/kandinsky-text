@@ -1,5 +1,4 @@
-
-https://user-images.githubusercontent.com/9340363/29362369-636a75f8-8294-11e7-8b08-79a71c68a2aa.jpg
+img=“12.jpg
 
 ## 2. Программа отказа от алкогольной зависимости
 
