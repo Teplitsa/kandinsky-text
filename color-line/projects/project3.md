@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/9340363/29362603-5e194164-8295-11e7-93c9-160f48f5b661.jpg
+img=“4.jpg
 
 ## 3. Программа «Линия цвета»
 
