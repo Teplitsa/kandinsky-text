@@ -18,7 +18,7 @@ slug="about"
 
 [content name=activity]
 
-[shortcode name=knd_background_text content=activity-results cta-label="Поддержать" cta-url="https://ngo2.ru/knd/donate/" bg-color="#b0d695"]
+[shortcode name=knd_background_text content=activity-results cta-label="Поддержать" cta-url="CTA_DONATE" bg-color="#b0d695"]
 
 [content name=activity-keepgoing]
 
