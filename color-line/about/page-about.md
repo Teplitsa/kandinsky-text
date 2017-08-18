@@ -1,3 +1,8 @@
+title="О нас"
+slug="about-us"
+
++++
+
 [content name=introduction]
 
 [shortcode name=knd_background_text content=whoweare-whoweare]
