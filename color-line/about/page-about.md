@@ -1,5 +1,5 @@
 title="О нас"
-slug="about-us"
+slug="about"
 
 +++
 
