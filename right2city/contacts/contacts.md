@@ -1,12 +1,8 @@
-title=“”
-
-tags=“”
-
-cat=“”
-
-thumb=“”
-
-lead=“”
+title="Контакты"  
+tags=""  
+cat=""  
+thumb=""  
+lead=""  
 
 +++
 
