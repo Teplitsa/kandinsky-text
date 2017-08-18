@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/9340363/29362922-86d50844-8296-11e7-8fbb-2ef1df1ecb11.jpg
+img=“14.jpg
 
 ## 5. Программа «Дом»
 
