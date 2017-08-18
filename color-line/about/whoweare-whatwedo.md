@@ -1,4 +1,5 @@
 title="Что мы делаем?"
+
 thumb="file 11.jpg"
 
 +++
