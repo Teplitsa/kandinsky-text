@@ -8,7 +8,7 @@ slug="about"
 
 [shortcode name=knd_background_text content=whoweare-heroimage]
 
-[content content=whoweare]
+[content name=whoweare]
 
 [shortcode name=knd_columns content=whoweare-whatwedo content=whoweare-howtojoin]
 
