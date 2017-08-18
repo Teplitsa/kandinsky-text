@@ -1,5 +1,5 @@
 
-img=“file 2.jpg
+thumb="file 2.jpg"
 
 +++
 
