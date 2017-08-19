@@ -29,6 +29,6 @@ slug="about"
 
 [knd_orgs_list title="Наши партнеры" /]
 
-[content name=legal-footer]
+[content name=reports]
 
 [content name=legal-footer]
