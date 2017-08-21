@@ -1,4 +1,8 @@
-thumb="file 14.jpg"
+title="Дополнительная информация и правовые документы"  
+tags=""  
+cat=""  
+thumb="legal.jpg"  
+lead=""  
 
 +++
 
