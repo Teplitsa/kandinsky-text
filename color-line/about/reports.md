@@ -1,4 +1,8 @@
-thumb="about 1.jpg"
+title="Отчеты"  
+tags=""  
+cat=""  
+thumb="reports.jpg"  
+lead=""  
 
 +++
 
