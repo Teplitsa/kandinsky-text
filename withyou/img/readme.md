@@ -24,3 +24,5 @@
 * infant – Photo credit: teresachin2007 via Visual Hunt /  CC BY-SA
 * teen – Photo credit: timc74 via VisualHunt.com /  CC BY-NC-SA
 * girlface – Photo credit: Greg Edgings via VisualHunt /  CC BY-NC
+* adultkid – Photo credit: Greg Edgings via Visual hunt /  CC BY-NC
+* kidsanimation – Photo credit: justin.connors via Visual hunt /  CC BY-NC
