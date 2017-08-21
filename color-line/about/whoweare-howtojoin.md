@@ -1,6 +1,8 @@
-title="Как присоединиться?"
-
-thumb="file 2.jpg"
+title="Заголовок: Как присоединиться?"  
+tags=""  
+cat=""  
+thumb="whoweare-howtojoin.jpg"  
+lead=""  
 
 +++
 
