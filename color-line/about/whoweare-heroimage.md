@@ -1,6 +1,8 @@
-title="Кто мы?"
-
-thumb="about 1.jpg"
+title="Заголовок: Кто мы?"  
+tags=""  
+cat=""  
+thumb="8.jpg"  
+lead=""  
 
 +++
 
