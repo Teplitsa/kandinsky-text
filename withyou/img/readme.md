@@ -20,3 +20,6 @@
 * kidsmile – Photo via Visual hunt
 * kidsand – Photo via Visual hunt
 * kidsshoe – Photo via Visual hunt
+* brotherandsister – Photo via VisualHunt
+* infant – Photo credit: teresachin2007 via Visual Hunt /  CC BY-SA
+* teen – Photo credit: timc74 via VisualHunt.com /  CC BY-NC-SA
