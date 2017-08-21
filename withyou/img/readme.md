@@ -7,4 +7,16 @@
 * russiansbyriver – Photo credit: Cyril Chebot via VisualHunt /  CC BY
 * twoteens – Photo credit: CharlesFred via Visual Hunt /  CC BY-NC-SA
 * russianstylegraffiti – Photo credit: GorVlad via Visual hunt /  CC BY-NC-ND
-
+* kidleaf – Photo via Visual hunt
+* kidleaf2 – Photo via Visual hunt
+* shinygirl – Photo via Visual hunt
+* kidinpool – Photo via Visual hunt
+* girlinthesun – Photo via Visual hunt
+* boyandgirl – Photo via Visual hunt
+* boypainter – Photo via Visual hunt
+* autumnpark – Photo via Visual hunt
+* kidssea – Photo via Visual hunt
+* kidsmonument – Photo via Visual hunt
+* kidsmile – Photo via Visual hunt
+* kidsand – Photo via Visual hunt
+* kidsshoe – Photo via Visual hunt
