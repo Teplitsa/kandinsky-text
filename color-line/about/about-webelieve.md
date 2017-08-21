@@ -1,4 +1,8 @@
-title="Мы верим"
+title="Мы верим"  
+tags=""  
+cat="Новости проектов"  
+thumb="mi verim.jpg"  
+lead=""
 
 +++
 
