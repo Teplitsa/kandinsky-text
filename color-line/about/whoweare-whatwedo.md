@@ -1,6 +1,8 @@
-title="Что мы делаем?"
-
-thumb="file 11.jpg"
+title="Заголовок: Что мы делаем?"  
+tags=""  
+cat=""  
+thumb="11.jpg"  
+lead=""  
 
 +++
 
