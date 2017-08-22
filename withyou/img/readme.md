@@ -38,6 +38,8 @@
 * twokidsea – Photo credit: kingary via Visualhunt.com /  CC BY-NC-ND
 * kidshelp – Photo credit: Kathy Cassidy via Visualhunt /  CC BY-NC-SA
 * waterplaying – Photo via Visualhunt.com
+* manteam3 – Photo via Visualhunt.com
+
 
 
 
