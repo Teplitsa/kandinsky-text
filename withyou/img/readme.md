@@ -28,5 +28,7 @@
 * kidsanimation – Photo credit: justin.connors via Visual hunt /  CC BY-NC
 * twokidsmain – https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Crowded_swing.jpg
 * volunteers – Photo credit: Mount Rainier NPS via VisualHunt /  CC BY
+* school – https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:School_number_5_in_Ishimbay.jpg
+
 
 
