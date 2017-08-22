@@ -1,7 +1,7 @@
 title="Волонтёрство"   
 tags="волонтёры, помощь"   
 cat="Присоединиться к нам"   
-thumb=""   
+thumb="volunteer.jpg"   
 lead=""  
 
 +++
