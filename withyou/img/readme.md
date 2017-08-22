@@ -44,6 +44,8 @@
 * youngman3 – Photo credit: truewonder via Visualhunt.com /  CC BY
 * youngwoman – Photo credit: truewonder via Visualhunt.com /  CC BY
 * manteam5 – Photo credit: WIPO | OMPI via VisualHunt.com /  CC BY-NC-ND
+* womanteam6 – Photo credit: hari sundaram via Visualhunt /  CC BY-NC-SA
+
 
 
 
