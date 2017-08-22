@@ -40,8 +40,8 @@
 * waterplaying – Photo via Visualhunt.com
 * manteam3 – Photo via Visualhunt.com
 * youngman – Photo credit: truewonder via Visualhunt.com /  CC BY
-* youngman – Photo credit: truewonder via Visualhunt.com /  CC BY
-* youngman – Photo credit: truewonder via Visualhunt.com /  CC BY
+* youngman2 – Photo credit: truewonder via Visualhunt.com /  CC BY
+* youngman3 – Photo credit: truewonder via Visualhunt.com /  CC BY
 * youngwoman – Photo credit: truewonder via Visualhunt.com /  CC BY
 
 
