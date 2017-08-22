@@ -30,6 +30,8 @@
 * volunteers – Photo credit: Mount Rainier NPS via VisualHunt /  CC BY
 * school – https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:School_number_5_in_Ishimbay.jpg
 * subbotnik – Photo credit: danielthornton via Visualhunt.com /  CC BY
+* meeting2 – Photo credit: remuz [Jack The Ripper] via Visualhunt /  CC BY-NC-SA
+
 
 
 
