@@ -1,8 +1,8 @@
-title=" Стань волонтером"
-tags=""
-cat=""
-thumb="beavoloner.jpg"
-lead=""
+title=" Стань волонтером"  
+tags=""  
+cat=""  
+thumb="beavoloner.jpg"  
+lead=""  
 
 112 волонтеров помогают «Линии цвета» в настоящий момент.
 
