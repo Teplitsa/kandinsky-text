@@ -26,3 +26,5 @@
 * girlface – Photo credit: Greg Edgings via VisualHunt /  CC BY-NC
 * adultkid – Photo credit: Greg Edgings via Visual hunt /  CC BY-NC
 * kidsanimation – Photo credit: justin.connors via Visual hunt /  CC BY-NC
+* twokidsmain – https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Crowded_swing.jpg
+
