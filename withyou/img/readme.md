@@ -31,6 +31,15 @@
 * school – https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:School_number_5_in_Ishimbay.jpg
 * subbotnik – Photo credit: danielthornton via Visualhunt.com /  CC BY
 * meeting2 – Photo credit: remuz [Jack The Ripper] via Visualhunt /  CC BY-NC-SA
+* manteam1 – Photo credit: ØKOKRIM via Visual hunt /  CC BY-NC
+* womanteam2 – Photo credit: rossbrannigan95 via VisualHunt /  CC BY-NC
+* motherandkid – Photo credit: popofatticus via VisualHunt /  CC BY
+* seniorandkid – Photo credit: Chairman of the Joint Chiefs of Staff via Visual Hunt /  CC BY
+* twokidsea – Photo credit: kingary via Visualhunt.com /  CC BY-NC-ND
+* kidshelp – Photo credit: Kathy Cassidy via Visualhunt /  CC BY-NC-SA
+* waterplaying – Photo via Visualhunt.com
+
+
 
 
 
