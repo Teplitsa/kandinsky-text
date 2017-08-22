@@ -1,7 +1,7 @@
 title="Сотрудники фонда «Линия цвета»"      
 tags=""    
 cat=""     
-thumb="14.jpg"     
+thumb=""     
 lead=""  
 
 +++
