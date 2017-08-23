@@ -1,7 +1,7 @@
 title="Экспертиза"  
 tags=""   
 cat=""  
-thumb=""  
+thumb="docs1.jpg"  
 lead=""
 
 +++
