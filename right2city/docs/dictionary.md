@@ -1,7 +1,7 @@
 title="Cловарь градозащитника"  
 tags=""  
 cat=""  
-thumb=""  
+thumb="architect5.jpg"  
 lead=""
 
 +++  
