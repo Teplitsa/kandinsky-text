@@ -47,6 +47,8 @@
 * womanteam6 – Photo credit: hari sundaram via Visualhunt /  CC BY-NC-SA
 * woman7 – Photo credit: juhansonin via Visualhunt.com /  CC BY
 * woman8 – Photo via Visualhunt
+* wheelchair – Photo credit: Gareth1953 All Right Now via Visual Hunt /  CC BY
+
 
 
 
