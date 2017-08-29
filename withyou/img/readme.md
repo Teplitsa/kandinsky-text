@@ -48,6 +48,8 @@
 * woman7 – Photo credit: juhansonin via Visualhunt.com /  CC BY
 * woman8 – Photo via Visualhunt
 * wheelchair – Photo credit: Gareth1953 All Right Now via Visual Hunt /  CC BY
+* robo – Photo credit: oakridgelabnews via VisualHunt /  CC BY-NC-ND
+
 
 
 
