@@ -52,6 +52,9 @@
 * kidschool – Photo credit: IMs Bildarkiv / Photo Archive via VisualHunt.com /  CC BY-NC-ND
 * kidtheater – Photo credit: *saipal via Visual hunt /  CC BY
 * failed1 – Photo credit: Jason Lander via Visual Hunt /  CC BY
+* failed2 – Photo credit: wizardhat via Visualhunt /  CC BY-NC
+* failed3 – Photo credit: Crazybananas via Visual hunt /  CC BY-NC-ND
+
 
 
 
