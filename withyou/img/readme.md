@@ -55,6 +55,8 @@
 * failed2 – Photo credit: wizardhat via Visualhunt /  CC BY-NC
 * failed3 – Photo credit: Crazybananas via Visual hunt /  CC BY-NC-ND
 * dog – Photo credit: zingpix via Visual Hunt /  CC BY
+* gathering – Photo credit: Adriatica! via Visualhunt.com /  CC BY-NC-SA
+
 
 
 
