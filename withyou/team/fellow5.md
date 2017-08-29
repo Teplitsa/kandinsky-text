@@ -6,6 +6,6 @@ lead=""
 
 +++
   
-img="manteam5.jpg"  
+img="fellow5upd.jpg"  
 **Комаров Андрей Валерьевич** – директор фонда 
 
