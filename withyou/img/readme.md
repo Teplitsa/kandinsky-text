@@ -54,6 +54,8 @@
 * failed1 – Photo credit: Jason Lander via Visual Hunt /  CC BY
 * failed2 – Photo credit: wizardhat via Visualhunt /  CC BY-NC
 * failed3 – Photo credit: Crazybananas via Visual hunt /  CC BY-NC-ND
+* dog – Photo credit: zingpix via Visual Hunt /  CC BY
+
 
 
 
