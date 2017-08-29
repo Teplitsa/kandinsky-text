@@ -20,7 +20,7 @@ link="team/fellow4upd.md"
 link="team/fellow5upd.md"
 * Кинза Ирина Витальевна – заместитель директора фонда
 link="team/fellow6upd.md"
-* Комарова Ульяна Сергеевна – главный бухгалтер
+* Комаров Илья Сергеевич – главный бухгалтер
 link="team/fellow7upd.md"
 * Никишина Галина Федоровна – психолог, сотрудник фонда
 link="team/fellow8upd.md"
