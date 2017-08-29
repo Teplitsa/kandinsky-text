@@ -1,7 +1,7 @@
-title=""
-tags="благотворительность, Вельск, помощь детям"
-cat="subtitle_who"
-thumb="twokidsmain.jpg"
+title="Кто мы?"  
+tags="благотворительность, Вельск, помощь детям"  
+cat="subtitle_who"  
+thumb="twokidsmain.jpg"  
 lead=""
 +++
 
