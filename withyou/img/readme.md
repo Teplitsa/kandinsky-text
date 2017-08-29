@@ -50,6 +50,8 @@
 * wheelchair – Photo credit: Gareth1953 All Right Now via Visual Hunt /  CC BY
 * robo – Photo credit: oakridgelabnews via VisualHunt /  CC BY-NC-ND
 * kidschool – Photo credit: IMs Bildarkiv / Photo Archive via VisualHunt.com /  CC BY-NC-ND
+* kidtheater – Photo credit: *saipal via Visual hunt /  CC BY
+
 
 
 
