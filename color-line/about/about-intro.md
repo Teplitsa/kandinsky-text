@@ -1,7 +1,7 @@
 title="Заголовок: О нас"  
 tags=""  
 cat=""  
-thumb="o nas.jpg"  
+thumb=""  
 lead=""  
 
 +++

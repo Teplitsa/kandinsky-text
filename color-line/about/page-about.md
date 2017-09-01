@@ -1,34 +1,17 @@
 title="О нас"
 
 slug="about"
+lead="«Линия Цвета» – мы помогаем людям, которые борются с алкогольной зависимостью"
+thumb="o nas.jpg"
 
 +++
 
-[content name=introduction]
+[content name=about-intro title=no]
 
-[shortcode name=knd_background_text content=whoweare-heroimage]
+[shortcode name=knd_key_phraset content=about-ourmission subtitle="Наша миссия"]
 
-[content name=whoweare]
+[shortcode name=knd_image_section content=about-webelieve img=?? title="Мы верим" text_on_top="1" color="no"]
 
-[shortcode name=knd_columns content=whoweare-whatwedo content=whoweare-howtojoin]
+[content name=about-activity title=center]
 
-[content name=about]
-
-[shortcode name=knd_columns content=about-ourmission content=about-webelieve]
-
-[content name=activity]
-
-[shortcode name=knd_background_text content=activity-results cta-label="Поддержать" cta-url="CTA_DONATE" bg-color="#b0d695"]
-
-[content name=activity-keepgoing]
-
-
-[content name=legal]
-
-[knd_persons_list title="Наши сотрудники" /]
-
-[knd_orgs_list title="Наши партнеры" /]
-
-[content name=reports]
-
-[content name=legal-footer]
+[content name=about-legal title=yes]
