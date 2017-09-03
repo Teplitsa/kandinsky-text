@@ -3,10 +3,10 @@ slug="howtohelp"
 
 +++
 
-[content name="hotohelp-beavolonter"]
+[content name="howtohelp-beavolonter"]
 
-[content name="hotohelp-donations"]
+[content name="howtohelp-donations"]
 
-[content name="hotohelp-helponline"]
+[content name="howtohelp-helponline"]
 
-[content name="hotohelp-suvenirs"]
+[content name="howtohelp-suvenirs"]
