@@ -5,13 +5,13 @@ thumb="o nas.jpg"
 
 +++
 
-[content name=about-intro title=""]
+[content name=about-intro]
 
 [shortcode name=knd_key_phrase content=about-ourmission subtitle="Наша миссия"]
 
 [shortcode name=knd_image_section content=about-webelieve img="about-1.jpg" title="Мы верим" text_place="ontop"]
 
-[content name=about-activity title=""]
+[content name=about-activity]
 
 [shortcode name=knd_image_section content=about-relusts img="activity-results.jpg" title="Результаты" text_place="under" ]
 
