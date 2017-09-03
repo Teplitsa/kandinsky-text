@@ -1,1 +1,1 @@
-[История Линии Жизни](mdlink="page/istoriya-linii-zhizni")[Отчеты](mdlink="page/reports")[Контакты](mdlink="page/contacts")
+[История «Линия цвета»](mdlink="page/about-history")[Отчеты](mdlink="page/reports")[Контакты](mdlink="page/contacts")
