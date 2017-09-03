@@ -5,16 +5,16 @@ thumb="o nas.jpg"
 
 +++
 
-[content name=about-intro]
+[content name="about-intro"]
 
-[shortcode name=knd_key_phrase content=about-ourmission subtitle="Наша миссия"]
+[shortcode name="knd_key_phrase" content="about-ourmission" subtitle="Наша миссия"]
 
-[shortcode name=knd_image_section content=about-webelieve img="about-1.jpg" title="Мы верим" text_place="ontop"]
+[shortcode name="knd_image_section" content="about-webelieve" img="about-1.jpg" title="Мы верим" text_place="ontop"]
 
-[content name=about-activity]
+[content name="about-activity"]
 
-[shortcode name=knd_image_section content=about-results img="activity-results.jpg" title="Результаты" text_place="under" ]
+[shortcode name="knd_image_section" content="about-results" img="activity-results.jpg" title="Результаты" text_place="under" ]
 
-[shortcode name=knd_cta_section content=about-join subtitle="Присоединяйтесь" url="page/howtojoin-beavoloner" button="Стать волонтером"]
+[shortcode name="knd_cta_section" content="about-join" subtitle="Присоединяйтесь" url="page/howtojoin-beavoloner" button="Стать волонтером"]
 
-[content name=about-legal]
+[content name="about-legal"]
