@@ -15,6 +15,6 @@ thumb="o nas.jpg"
 
 [shortcode name="knd_image_section" content="about-results" img="activity-results.jpg" title="Результаты" text_place="under" ]
 
-[shortcode name="knd_cta_section" content="about-join" url="page/howtojoin-beavoloner" button="Стать волонтером"]
+[shortcode name="knd_cta_section" content="about-join" subtitle="Присоединяйтесь" button="Стать волонтером"]
 
 [content name="about-legal"]
