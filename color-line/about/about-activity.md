@@ -1,4 +1,4 @@
-title="Наша деятельность"  
+title=""  
 tags=""  
 cat=""  
 thumb="8.jpg"  
