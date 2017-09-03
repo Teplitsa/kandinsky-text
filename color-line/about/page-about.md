@@ -18,3 +18,9 @@ thumb="o nas.jpg"
 [shortcode name="knd_cta_section" content="about-join" subtitle="Присоединяйтесь" link="page/howtojoin-beavolonter" button="Стать волонтером"]
 
 [content name="about-legal"]
+
+<div class="knd-links center">
+[История Линии Жизни](link="page/istoriya-linii-zhizni")
+[Отчеты](link="page/reports")
+[Контакты](link="page/contacts")
+</div>
