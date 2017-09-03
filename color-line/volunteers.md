@@ -1,4 +1,4 @@
-title="Наши волонтеры"  
+title="Волонтерам"  
 tags=""  
 cat=""  
 thumb="volunteers.jpg"  
