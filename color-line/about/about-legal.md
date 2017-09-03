@@ -29,7 +29,9 @@ lead=""
 Сводный отчет по всем грантовым поступлениям и пожертвованиям за период 2012-2016 годы. (Скачать)
 
 <div class="knd-links center">
+
 [История Линии Жизни](mdlink="page/istoriya-linii-zhizni")
 [Отчеты](mdlink="page/reports")
 [Контакты](mdlink="page/contacts")
+
 </div>
