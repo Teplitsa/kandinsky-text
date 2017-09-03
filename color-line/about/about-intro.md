@@ -1,4 +1,4 @@
-title="Заголовок: О нас"  
+title=""  
 tags=""  
 cat=""  
 thumb=""  
