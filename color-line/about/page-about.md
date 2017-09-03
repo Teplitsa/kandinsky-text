@@ -15,7 +15,7 @@ thumb="o nas.jpg"
 
 [shortcode name="knd_image_section" content="about-results" img="activity-results.jpg" title="Результаты" text_place="under" ]
 
-[shortcode name="knd_cta_section" content="about-join" subtitle="Присоединяйтесь" link="page/howtohelp-beavolonter" button="Стать волонтером"]
+[shortcode name="knd_cta_section" content="about-join" subtitle="Присоединяйтесь" link="page/volunteers" button="Стать волонтером"]
 
 [content name="about-legal"]
 
