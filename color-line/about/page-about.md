@@ -20,7 +20,7 @@ thumb="o nas.jpg"
 [content name="about-legal"]
 
 <div class="knd-links center">
-[История Линии Жизни](link="page/istoriya-linii-zhizni")
-[Отчеты](link="page/reports")
-[Контакты](link="page/contacts")
+[История Линии Жизни](mdlink="page/istoriya-linii-zhizni")
+[Отчеты](mdlink="page/reports")
+[Контакты](mdlink="page/contacts")
 </div>
