@@ -11,7 +11,7 @@ thumb="o nas.jpg"
 
 [shortcode name=knd_image_section content=about-webelieve img="about-1.jpg" title="Мы верим" text_place="ontop"]
 
-[content name=about-activity]
+[content name=about-activity title=""]
 
 [shortcode name=knd_image_section content=about-relusts img="activity-results.jpg" title="Результаты" text_place="under" ]
 
