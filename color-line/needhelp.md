@@ -1,5 +1,5 @@
 title="Запись на консультацию"  
-slug=ineedhelp
+slug=needhelp
 
 +++
 
