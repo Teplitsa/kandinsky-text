@@ -13,7 +13,7 @@ thumb="o nas.jpg"
 
 [content name=about-activity]
 
-[shortcode name=knd_image_section content=about-relusts img="activity-results.jpg" title="Результаты" text_place="under" ]
+[shortcode name=knd_image_section content=about-results img="activity-results.jpg" title="Результаты" text_place="under" ]
 
 [shortcode name=knd_cta_section content=about-join subtitle="Присоединяйтесь" url="page/howtojoin-beavoloner" button="Стать волонтером"]
 
