@@ -6,12 +6,16 @@ thumb="o nas.jpg"
 
 +++
 
-[content name=about-intro title=no]
+[content name=about-intro title="no"]
 
-[shortcode name=knd_key_phraset content=about-ourmission subtitle="Наша миссия"]
+[shortcode name=knd_key_phrase content=about-ourmission subtitle="Наша миссия"]
 
-[shortcode name=knd_image_section content=about-webelieve img=?? title="Мы верим" text_on_top="1" color="no"]
+[shortcode name=knd_image_section content=about-webelieve img="??" title="Мы верим" text_place="ontop"]
 
-[content name=about-activity title=center]
+[content name=about-activity title="yes"]
 
-[content name=about-legal title=yes]
+[shortcode name=knd_image_section content=about-relusts img="??" title="Результаты" text_place="under" ]
+
+[shortcode name=knd_cta_section content=about-join subtitle="Присоединяйтесь" link="??" button="Стать волонтером"]
+
+[content name=about-legal title="yes"]
