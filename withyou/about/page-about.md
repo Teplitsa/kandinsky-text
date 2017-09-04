@@ -6,12 +6,14 @@ slug="about"
 
 +++
 
-[content name=about]
+[content name=about-intro title="yes"]
 
-[content name=team]
+[shortcode name="knd_key_phrase" content="about-vera" subtitle="Мы верим"]
 
-[content name=reports]
+[shortcode name="knd_image_section" content="about-mission" img="volunteers.jpg" title="Цель фонда" text_place="ontop"]
 
-[content name=joinus]
+[content name=about title="no"]
 
-[content name=bankdetails]
+[content name=reports title="yes"]
+
+[content name=bankdetails title="yes"]
