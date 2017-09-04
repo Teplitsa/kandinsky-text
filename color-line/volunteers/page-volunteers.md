@@ -1,5 +1,5 @@
 title="Волонтерам"  
-slug="volunteers"  
+slug="p"  
 lead="Каждый волонтер в нашем центре «Линия цвета» может рассказать свою историю"  
 thumb="volunteers.jpg"  
 
