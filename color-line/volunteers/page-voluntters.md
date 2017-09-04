@@ -1,0 +1,14 @@
+title="Волонтерам"  
+slug="volunteers"  
+lead="Каждый волонтер в нашем центре «Линия цвета» может рассказать свою историю"  
+thumb="volunteers.jpg"  
+
++++
+
+[content name="volunteers-intro" title="no"]
+
+[shortcode name="knd_image_section" content="volunteers-num" img="volunteers.jpg" title="В центре работают 112 волонтеров." text_place="ontop"]
+
+[content name="volunteers-firms" title="no"]
+
+[content name="volunteers" title="yes"]
