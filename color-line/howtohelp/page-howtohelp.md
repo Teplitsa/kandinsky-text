@@ -1,5 +1,5 @@
 title="Как помочь"  
-slug="howtohelp"  
+slug="bevolunteer"  
 
 +++
 
