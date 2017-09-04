@@ -3,11 +3,13 @@
 title="О нас"
 
 slug="about"
-
+lead="Мы – сообщество активных жителей Двоегорска."
 +++
 
-[content name=whatwearedo]
+[content name=about title=no]
 
 [content name=conflict]
 
-[content name=about]
+[shortcode name="knd_image_section" content="stadium" img="stadium7.jpg" title="Мы против" text_place="ontop"]
+
+[content name=whatwearedo title="yes"]
