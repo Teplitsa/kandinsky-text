@@ -3,10 +3,10 @@
 title="О нас"
 
 slug="about"
-lead="Благтворительный фонд «Мы с тобой»"
+lead="Благотворительный фонд помощи детям из малоимущих семей «Мы с тобой»"
 +++
 
-[content name=about-intro title="yes"]
+[content name=about-intro title="no"]
 
 [shortcode name="knd_key_phrase" content="about-mission" subtitle="Наша миссия"]
 
@@ -14,6 +14,6 @@ lead="Благтворительный фонд «Мы с тобой»"
 
 [content name=about title="no"]
 
-[content name=reports title="yes"]
+[content name=about-reports title="yes"]
 
 [content name=bankdetails title="yes"]
